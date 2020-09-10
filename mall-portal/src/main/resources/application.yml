@@ -38,9 +38,9 @@ secure:
 redis:
   database: mall
   key:
-    authCode: 'ums:authCode'
+    authCode: 'Uac:authCode'
     orderId: 'oms:orderId'
-    member: 'ums:member'
+    member: 'Uac:member'
   expire:
     authCode: 90 # 验证码超期时间
     common: 86400 # 24小时

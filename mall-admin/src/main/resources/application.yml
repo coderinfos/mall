@@ -22,8 +22,8 @@ jwt:
 redis:
   database: mall
   key:
-    admin: 'ums:admin'
-    resourceList: 'ums:resourceList'
+    admin: 'Uac:admin'
+    resourceList: 'Uac:resourceList'
   expire:
     common: 86400 # 24小时
 
@@ -61,7 +61,7 @@ aliyun:
       prefix: mall/images/ # 上传文件夹路径前缀
 
 minio:
-  endpoint: http://192.168.3.101:9090 #MinIO服务所在地址
-  bucketName: mall #存储桶名称
-  accessKey: minioadmin #访问的key
-  secretKey: minioadmin #访问的秘钥
+  endpoint: http://182.92.217.173:9000 #MinIO服务所在地址
+  bucketName: coderinfo #存储桶名称
+  accessKey: admin #访问的key
+  secretKey: admin123456 #访问的秘钥

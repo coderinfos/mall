@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.macro.mall.portal.dao.PortalOrderDao">
-    <resultMap id="orderDetailMap" type="com.macro.mall.portal.domain.OmsOrderDetail"
-               extends="com.macro.mall.mapper.OmsOrderMapper.BaseResultMap">
+<mapper namespace="org.coderinfo.pf.mall.portal.dao.PortalOrderDao">
+    <resultMap id="orderDetailMap" type="org.coderinfo.pf.mall.portal.domain.OmsOrderDetail"
+               extends="org.coderinfo.pf.core.mapper.OmsOrderMapper.BaseResultMap">
         <collection property="orderItemList" columnPrefix="ot_"
-                    resultMap="com.macro.mall.mapper.OmsOrderItemMapper.BaseResultMap">
+                    resultMap="org.coderinfo.pf.core.mapper.OmsOrderItemMapper.BaseResultMap">
         </collection>
     </resultMap>
     <select id="getDetail" resultMap="orderDetailMap">

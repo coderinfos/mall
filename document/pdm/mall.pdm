@@ -12239,8 +12239,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o269">
 <a:ObjectID>39073F58-E0FD-4E97-91A0-AFA7D8C5F626</a:ObjectID>
-<a:Name>ums_member</a:Name>
-<a:Code>ums_member</a:Code>
+<a:Name>Uac_member</a:Name>
+<a:Code>Uac_member</a:Code>
 <a:CreationDate>1522217487</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1533115911</a:ModificationDate>
@@ -13200,8 +13200,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o278">
 <a:ObjectID>284E46B4-B9CC-41C1-B331-6F43782ADCC3</a:ObjectID>
-<a:Name>ums_admin</a:Name>
-<a:Code>ums_admin</a:Code>
+<a:Name>Uac_admin</a:Name>
+<a:Code>Uac_admin</a:Code>
 <a:CreationDate>1522303730</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1538200957</a:ModificationDate>
@@ -13349,8 +13349,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o279">
 <a:ObjectID>DC20F109-83F4-4E8A-B2CF-299453506A86</a:ObjectID>
-<a:Name>ums_admin_login_log</a:Name>
-<a:Code>ums_admin_login_log</a:Code>
+<a:Name>Uac_admin_login_log</a:Name>
+<a:Code>Uac_admin_login_log</a:Code>
 <a:CreationDate>1522303928</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1522304178</a:ModificationDate>
@@ -13445,8 +13445,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o280">
 <a:ObjectID>A6C67972-0C12-4876-8087-2E48F9028CA7</a:ObjectID>
-<a:Name>ums_member_level</a:Name>
-<a:Code>ums_member_level</a:Code>
+<a:Name>Uac_member_level</a:Name>
+<a:Code>Uac_member_level</a:Code>
 <a:CreationDate>1522379808</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1542179474</a:ModificationDate>
@@ -13627,8 +13627,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o281">
 <a:ObjectID>31084C7B-4E3D-4630-A484-B457DFC84069</a:ObjectID>
-<a:Name>ums_member_product_category_relation</a:Name>
-<a:Code>ums_member_product_category_relation</a:Code>
+<a:Name>Uac_member_product_category_relation</a:Name>
+<a:Code>Uac_member_product_category_relation</a:Code>
 <a:CreationDate>1522387387</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1522387526</a:ModificationDate>
@@ -13689,8 +13689,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o282">
 <a:ObjectID>94C05B4D-0F20-4449-8EC4-52604C753834</a:ObjectID>
-<a:Name>ums_member_statistics_info</a:Name>
-<a:Code>ums_member_statistics_info</a:Code>
+<a:Name>Uac_member_statistics_info</a:Name>
+<a:Code>Uac_member_statistics_info</a:Code>
 <a:CreationDate>1522387906</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1522390765</a:ModificationDate>
@@ -13892,8 +13892,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o283">
 <a:ObjectID>C1C1114F-DE94-4DF6-80DD-7A8210AC0D1B</a:ObjectID>
-<a:Name>ums_member_receive_address</a:Name>
-<a:Code>ums_member_receive_address</a:Code>
+<a:Name>Uac_member_receive_address</a:Name>
+<a:Code>Uac_member_receive_address</a:Code>
 <a:CreationDate>1522390106</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1535437101</a:ModificationDate>
@@ -14039,8 +14039,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o284">
 <a:ObjectID>202E7837-16F9-471E-8D27-BADDF8ABC40F</a:ObjectID>
-<a:Name>ums_member_login_log</a:Name>
-<a:Code>ums_member_login_log</a:Code>
+<a:Name>Uac_member_login_log</a:Name>
+<a:Code>Uac_member_login_log</a:Code>
 <a:CreationDate>1522390511</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1522747822</a:ModificationDate>
@@ -14146,8 +14146,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o285">
 <a:ObjectID>2A13105F-B4ED-4672-A401-CDDE4B9CE410</a:ObjectID>
-<a:Name>ums_member_tag</a:Name>
-<a:Code>ums_member_tag</a:Code>
+<a:Name>Uac_member_tag</a:Name>
+<a:Code>Uac_member_tag</a:Code>
 <a:CreationDate>1522390830</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1522391227</a:ModificationDate>
@@ -14223,8 +14223,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o286">
 <a:ObjectID>2D7B72D8-D25F-4A09-B4FA-16D2CEC9752A</a:ObjectID>
-<a:Name>ums_member_member_tag_relation</a:Name>
-<a:Code>ums_member_member_tag_relation</a:Code>
+<a:Name>Uac_member_member_tag_relation</a:Name>
+<a:Code>Uac_member_member_tag_relation</a:Code>
 <a:CreationDate>1522391304</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1522391380</a:ModificationDate>
@@ -14285,8 +14285,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o287">
 <a:ObjectID>58F43871-0D7C-4478-9A1B-43102436A177</a:ObjectID>
-<a:Name>ums_integration_change_history</a:Name>
-<a:Code>ums_integration_change_history</a:Code>
+<a:Name>Uac_integration_change_history</a:Name>
+<a:Code>Uac_integration_change_history</a:Code>
 <a:CreationDate>1522396385</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1522396758</a:ModificationDate>
@@ -14406,8 +14406,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o288">
 <a:ObjectID>DDBBBFBE-DCB3-4F92-A291-19A1F5767709</a:ObjectID>
-<a:Name>ums_growth_change_history</a:Name>
-<a:Code>ums_growth_change_history</a:Code>
+<a:Name>Uac_growth_change_history</a:Name>
+<a:Code>Uac_growth_change_history</a:Code>
 <a:CreationDate>1522396385</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1522396864</a:ModificationDate>
@@ -14527,8 +14527,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o290">
 <a:ObjectID>D2D961A9-BB8B-41D8-A501-1AF511F65DF9</a:ObjectID>
-<a:Name>ums_member_task</a:Name>
-<a:Code>ums_member_task</a:Code>
+<a:Name>Uac_member_task</a:Name>
+<a:Code>Uac_member_task</a:Code>
 <a:CreationDate>1522397182</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1522397290</a:ModificationDate>
@@ -14614,8 +14614,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o292">
 <a:ObjectID>9E564377-D9BE-4655-AC2E-13B0FD5CAF22</a:ObjectID>
-<a:Name>ums_member_rule_setting</a:Name>
-<a:Code>ums_member_rule_setting</a:Code>
+<a:Name>Uac_member_rule_setting</a:Name>
+<a:Code>Uac_member_rule_setting</a:Code>
 <a:CreationDate>1522397511</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1522397900</a:ModificationDate>
@@ -14727,8 +14727,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o294">
 <a:ObjectID>C1DCA2EA-AC28-420C-BFEF-FFE7F5644910</a:ObjectID>
-<a:Name>ums_integration_consume_setting</a:Name>
-<a:Code>ums_integration_consume_setting</a:Code>
+<a:Name>Uac_integration_consume_setting</a:Name>
+<a:Code>Uac_integration_consume_setting</a:Code>
 <a:CreationDate>1522398032</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1535615091</a:ModificationDate>
@@ -16674,8 +16674,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o305">
 <a:ObjectID>76086A3D-70A2-4A7E-A4DA-9B79808A0A53</a:ObjectID>
-<a:Name>ums_role</a:Name>
-<a:Code>ums_role</a:Code>
+<a:Name>Uac_role</a:Name>
+<a:Code>Uac_role</a:Code>
 <a:CreationDate>1538200619</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1538201383</a:ModificationDate>
@@ -16786,8 +16786,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o306">
 <a:ObjectID>4E46B794-7D2F-434B-9096-2F7DB97537BA</a:ObjectID>
-<a:Name>ums_permission</a:Name>
-<a:Code>ums_permission</a:Code>
+<a:Name>Uac_permission</a:Name>
+<a:Code>Uac_permission</a:Code>
 <a:CreationDate>1538201545</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1538202362</a:ModificationDate>
@@ -16937,8 +16937,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o307">
 <a:ObjectID>0ACD514B-6AD8-4092-9503-BB7418271C5D</a:ObjectID>
-<a:Name>ums_admin_role_relation</a:Name>
-<a:Code>ums_admin_role_relation</a:Code>
+<a:Name>Uac_admin_role_relation</a:Name>
+<a:Code>Uac_admin_role_relation</a:Code>
 <a:CreationDate>1538202419</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1538202492</a:ModificationDate>
@@ -16999,8 +16999,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o308">
 <a:ObjectID>DF1649B4-5B0F-43F0-8E49-DFB2050E1F76</a:ObjectID>
-<a:Name>ums_role_permission_relation</a:Name>
-<a:Code>ums_role_permission_relation</a:Code>
+<a:Name>Uac_role_permission_relation</a:Name>
+<a:Code>Uac_role_permission_relation</a:Code>
 <a:CreationDate>1538202537</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1538202588</a:ModificationDate>
@@ -17061,8 +17061,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o309">
 <a:ObjectID>13CA705F-65DC-48AC-9563-A5650E15DCC0</a:ObjectID>
-<a:Name>ums_admin_permission_relation</a:Name>
-<a:Code>ums_admin_permission_relation</a:Code>
+<a:Name>Uac_admin_permission_relation</a:Name>
+<a:Code>Uac_admin_permission_relation</a:Code>
 <a:CreationDate>1538202617</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1538203086</a:ModificationDate>
@@ -17354,8 +17354,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o312">
 <a:ObjectID>FA962271-FBB8-4D55-88C3-B0565D4B7E6B</a:ObjectID>
-<a:Name>ums_menu</a:Name>
-<a:Code>ums_menu</a:Code>
+<a:Name>Uac_menu</a:Name>
+<a:Code>Uac_menu</a:Code>
 <a:CreationDate>1580624574</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1580625146</a:ModificationDate>
@@ -17490,8 +17490,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o313">
 <a:ObjectID>21CA6441-50AA-434C-B1B2-51C4DB93E292</a:ObjectID>
-<a:Name>ums_resource</a:Name>
-<a:Code>ums_resource</a:Code>
+<a:Name>Uac_resource</a:Name>
+<a:Code>Uac_resource</a:Code>
 <a:CreationDate>1580624625</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1580869150</a:ModificationDate>
@@ -17590,8 +17590,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o314">
 <a:ObjectID>B66F7908-B143-4176-80A9-B2CF44529D08</a:ObjectID>
-<a:Name>ums_role_menu_relation</a:Name>
-<a:Code>ums_role_menu_relation</a:Code>
+<a:Name>Uac_role_menu_relation</a:Name>
+<a:Code>Uac_role_menu_relation</a:Code>
 <a:CreationDate>1580624663</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1580625352</a:ModificationDate>
@@ -17654,8 +17654,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o315">
 <a:ObjectID>C19BEA79-6E19-4CAD-9E31-9415E802B9DE</a:ObjectID>
-<a:Name>ums_role_resource_relation</a:Name>
-<a:Code>ums_role_resource_relation</a:Code>
+<a:Name>Uac_role_resource_relation</a:Name>
+<a:Code>Uac_role_resource_relation</a:Code>
 <a:CreationDate>1580624686</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1580625435</a:ModificationDate>
@@ -17718,8 +17718,8 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:Table>
 <o:Table Id="o316">
 <a:ObjectID>B0508AE4-FED1-47A1-A771-889573F7520B</a:ObjectID>
-<a:Name>ums_resource_category</a:Name>
-<a:Code>ums_resource_category</a:Code>
+<a:Name>Uac_resource_category</a:Name>
+<a:Code>Uac_resource_category</a:Code>
 <a:CreationDate>1580869056</a:CreationDate>
 <a:Creator>zhenghong</a:Creator>
 <a:ModificationDate>1581324455</a:ModificationDate>

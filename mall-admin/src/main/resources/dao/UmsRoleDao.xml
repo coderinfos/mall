@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.macro.mall.dao.UmsRoleDao">
+<mapper namespace="org.coderinfo.pf.admin.dao.UacRoleDao">
 
-    <select id="getMenuList" resultType="com.macro.mall.model.UmsMenu">
+    <select id="getMenuList" resultType="org.coderinfo.pf.core.domain.uac.UacMenu">
         SELECT
             m.id id,
             m.parent_id parentId,
@@ -14,17 +14,17 @@
             m.icon icon,
             m.hidden hidden
         FROM
-            ums_admin_role_relation arr
-                LEFT JOIN ums_role r ON arr.role_id = r.id
-                LEFT JOIN ums_role_menu_relation rmr ON r.id = rmr.role_id
-                LEFT JOIN ums_menu m ON rmr.menu_id = m.id
+            Uac_admin_role_relation arr
+                LEFT JOIN Uac_role r ON arr.role_id = r.id
+                LEFT JOIN Uac_role_menu_relation rmr ON r.id = rmr.role_id
+                LEFT JOIN Uac_menu m ON rmr.menu_id = m.id
         WHERE
             arr.admin_id = #{adminId}
           AND m.id IS NOT NULL
         GROUP BY
             m.id
     </select>
-    <select id="getMenuListByRoleId" resultType="com.macro.mall.model.UmsMenu">
+    <select id="getMenuListByRoleId" resultType="org.coderinfo.pf.core.domain.uac.UacMenu">
         SELECT
             m.id id,
             m.parent_id parentId,
@@ -36,15 +36,15 @@
             m.icon icon,
             m.hidden hidden
         FROM
-             ums_role_menu_relation rmr
-                LEFT JOIN ums_menu m ON rmr.menu_id = m.id
+             Uac_role_menu_relation rmr
+                LEFT JOIN Uac_menu m ON rmr.menu_id = m.id
         WHERE
             rmr.role_id = #{roleId}
           AND m.id IS NOT NULL
         GROUP BY
             m.id
     </select>
-    <select id="getResourceListByRoleId" resultType="com.macro.mall.model.UmsResource">
+    <select id="getResourceListByRoleId" resultType="org.coderinfo.pf.core.domain.uac.UacResource">
         SELECT
             r.id id,
             r.create_time createTime,
@@ -53,8 +53,8 @@
             r.description description,
             r.category_id categoryId
         FROM
-            ums_role_resource_relation rrr
-                LEFT JOIN ums_resource r ON rrr.resource_id = r.id
+            Uac_role_resource_relation rrr
+                LEFT JOIN Uac_resource r ON rrr.resource_id = r.id
         WHERE
             rrr.role_id = #{roleId}
           AND r.id IS NOT NULL
